@@ -10,5 +10,8 @@
 
 Данные в таблице БД обновляет каждую минуту.
 
+Ссылка на репозиторий:
+https://github.com/sergey-ignatev/sergey-ignatev
+
 Тестовая таблица с исходными данными:
 https://docs.google.com/spreadsheets/d/1DrQAtlzHjQpw6esIppBe79ZVRc9gK2t8aEVV0muxTI4/edit#gid=0

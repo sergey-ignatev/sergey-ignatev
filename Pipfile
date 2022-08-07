@@ -4,10 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+google = "*"
+google-auth-httplib2 = "*"
+google-auth-oauthlib = "*"
+sqlalchemy = "==1.4.39"
+google-api-python-client = "*"
+psycopg2-binary = "==2.9.3"
+requests-html = "==0.10.0"
 
 [dev-packages]
-pip = "*"
-google-api-python-client = "*"
 google-auth-httplib2 = "*"
 google-auth-oauthlib = "*"
 

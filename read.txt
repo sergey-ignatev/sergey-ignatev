@@ -1,0 +1,14 @@
+Системные требования: ubuntu 20.04
+
+Скачать проект и в корневой папке последовательно запускать команды:
+ 
+1. make up
+2. make migrate
+3. make stop
+4. в manager.py раскоментировать строчки с 14 по 16
+5. make up
+
+Данные в таблице БД обновляет каждую минуту.
+
+Тестовая таблица с исходными данными:
+https://docs.google.com/spreadsheets/d/1DrQAtlzHjQpw6esIppBe79ZVRc9gK2t8aEVV0muxTI4/edit#gid=0
